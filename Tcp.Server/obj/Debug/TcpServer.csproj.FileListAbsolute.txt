@@ -1,0 +1,10 @@
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.exe.config
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.exe
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.pdb
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\bin\Debug\SomeProject.Library.dll
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\bin\Debug\SomeProject.Library.pdb
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csproj.CopyComplete
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.exe
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.pdb

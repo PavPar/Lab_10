@@ -1,0 +1,13 @@
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.exe.config
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.exe
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.pdb
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\bin\Debug\SomeProject.Library.dll
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\bin\Debug\SomeProject.Library.pdb
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csprojAssemblyReference.cache
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\obj\Debug\SomeProject.TcpClient.ClientMainWindow.resources
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\obj\Debug\SomeProject.TcpClient.Properties.Resources.resources
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.CopyComplete
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.exe
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.pdb
